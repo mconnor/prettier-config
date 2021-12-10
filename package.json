@@ -1,9 +1,9 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "@mconnor/prettier-config",
   "version": "1.0.0",
-  "description": "My personal Prettier config",
+  "description": "a fork of Lucas Azzola's prettier config",
   "main": "index.json",
-  "repository": "git@github.com:azz/prettier-config.git",
-  "author": "Lucas Azzola <lucas@azzola.dev>",
+  "repository": "git@github.com:mconnor/prettier-config.git",
+  "author": "Michael Connor <mike@mikeconnor.tech>",
   "license": "MIT"
 }
